@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+  }
+  
+  /* Style the header */
+  h1 {
+    text-align: center;
+    background-color: #02264d;
+    color: white;
+    padding: 20px;
+    margin: 0;
+  }
+  
+  /* Style the navigation menu */
+  menu {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+  menu li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  /* Style the image */
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Style the main content */
+  h2 {
+    background-color: #2069b7;
+    color: white;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  p {
+    margin: 20px;
+  }
+  
+  ul {
+    padding-left: 30px;
+  }
+  
+  /* Style links */
+  a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  #linkedin{
+   color: rgb(32, 161, 226);
+   text-align: right;
+  }
+
